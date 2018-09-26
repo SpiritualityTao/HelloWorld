@@ -8,20 +8,20 @@
 
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View ,TextInput,ProgressBarAndroid} from 'react-native';
-//import {ScrollViewComponent} from './ScrollViewTest';
-//import {Touchables,ButtonBasics,xiecheng} from './TouchEventTest';
-//import {XcLayout} from './XCTest1';
-//import {SearchComponent} from './TextInputTest2'
-//import {SampleAppMovies} from  './SimpleMovieListTest3'
-//import {NavigatorComponent} from './NavigatorTest4';
-//import {ImageComponent} from './ImageTest5'
-//import {DrawerComponent} from './DrawerTest6'
-//import {FadeInComponent} from './AnimatedTest7'
-//import {ProgressComponent} from './ProgressTest8'
-//import {TimeLineDemo} from './ListViewTest9'
-//import {ToolbarComponent} from './ToolBarTest10'
+//import {ScrollViewComponent} from './ScrollViewDemo';
+//import {Touchables,ButtonBasics,xiecheng} from './TouchEventDemo';
+//import {XcLayout} from './XCDemo1';
+//import {SearchComponent} from './TextInputDemo2'
+//import {SampleAppMovies} from  './SimpleMovieListDemo3'
+//import {NavigatorComponent} from './NavigatorDemo4';
+//import {ImageComponent} from './ImageDemo5'
+//import {DrawerComponent} from './DrawerDemo6'
+//import {FadeInComponent} from './AnimatedDemo7'
+//import {ProgressComponent} from './ProgressDemo8'
+//import {TimeLineDemo} from './ListViewDemo9'
+//import {ToolbarComponent} from './ToolBarDemo10'
 import {DatePickerDemo} from './DatePickerAndroid11'
-import {ClipboardDemo} from './ClipboardTest12'
+import {ClipboardDemo} from './ClipboardDemo12'
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
   android:
